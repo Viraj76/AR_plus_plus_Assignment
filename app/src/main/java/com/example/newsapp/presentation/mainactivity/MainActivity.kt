@@ -1,4 +1,4 @@
-package com.example.newsapp
+package com.example.newsapp.presentation.mainactivity
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -13,7 +13,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.core.view.WindowCompat
 import androidx.lifecycle.lifecycleScope
-import androidx.room.Dao
 import com.example.newsapp.data.local.NewsDao
 import com.example.newsapp.domain.model.Article
 import com.example.newsapp.domain.model.Source
