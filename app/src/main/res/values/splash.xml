@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/undraw_newspaper_re_syf5</item>
+        <item name="postSplashScreenTheme">@style/Theme.NewsApp</item>
+        <item name="splashScreenIconSize">45dp</item>
+    </style>
+
+</resources>
