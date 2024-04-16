@@ -1,5 +1,5 @@
 # Access the APK, Codes.
-Drive link - [Google Drive Link]([https://drive.google.com/drive/folders/your-folder-id](https://drive.google.com/drive/folders/1PnsM9HdjL1NDIm7ez-5Uki5II6RuAccB?usp=sharing))
+Drive link - https://drive.google.com/drive/folders/1PnsM9HdjL1NDIm7ez-5Uki5II6RuAccB?usp=sharing
 
 # Tech stack used
 * Kotlin
