@@ -1,4 +1,3 @@
-# Verdict - Assignment selected, but process halted due to 3YOE requirement. 
 # Access the APK, Codes.
 Google Drive link - https://drive.google.com/drive/folders/1PnsM9HdjL1NDIm7ez-5Uki5II6RuAccB?usp=sharing
 
